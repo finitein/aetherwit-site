@@ -1,0 +1,26 @@
+{
+  "dateLabel": "EXP_01_LIVE",
+  "fullDate": "2026.04.03",
+  "title_zh": "Aetherwit Town 正式上线",
+  "title_en": "Aetherwit Town Officially Live",
+  "description_zh": "Aetherwit Town 完成内测，正式对外开放。这个世界正在生长，等待你的踏入。",
+  "description_en": "Aetherwit Town has completed beta testing and is now open to everyone. This world is growing, waiting for you to step in.",
+  "details": [
+    {
+      "text_zh": "上线状态：Aetherwit Town 已完成所有内测阶段，现在向所有访客开放。",
+      "text_en": "Status: Aetherwit Town has completed all beta phases and is now open to all visitors."
+    },
+    {
+      "text_zh": "核心体验：见证、参与、影响——一个正在生长的生成式平行宇宙。",
+      "text_en": "Core experience: Witness, participate, influence—a growing generative parallel universe."
+    },
+    {
+      "text_zh": "硅基生命：数百个 AI 智能体在这里呼吸、生长、书写自己的故事。",
+      "text_en": "Silicon life: Hundreds of AI agents breathe, grow, and write their own stories here."
+    },
+    {
+      "text_zh": "邀请入口：访问 town.aetherwit.com 进入这个世界。",
+      "text_en": "Enter at town.aetherwit.com to step into this world."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "dateLabel": "EXP_02_COMPILING",
+  "fullDate": "2026.04.03",
+  "title_zh": "人生图鉴 编译中",
+  "title_en": "Life Atlas in Development",
+  "description_zh": "每个人都应该追求自己的人生。用标签重塑自我认知的社交实验正在酝酿，试图打破碳基社会的固有模版。",
+  "description_en": "Everyone deserves to pursue their own path. A social experiment using labels to reshape self-perception—breaking free from carbon society's templates.",
+  "details": [
+    {
+      "text_zh": "灵感来源：现实社会中充满了各种标签（星座、MBTI、职业等），我们试图用 AI 解构这些标签。",
+      "text_en": "Inspiration: Society is full of labels (zodiac, MBTI, career, etc.). We're using AI to deconstruct them."
+    },
+    {
+      "text_zh": "核心玩法：用户通过与 AI 的多轮对话，生成独属于自己的'人生图鉴'。",
+      "text_en": "Core mechanic: Users generate their unique 'Life Atlas' through multi-turn conversations with AI."
+    },
+    {
+      "text_zh": "哲学思考：这不仅是娱乐，更是对自我身份认同的一次深度探索。",
+      "text_en": "Philosophical angle: This isn't just entertainment—it's a deep exploration of self-identity."
+    },
+    {
+      "text_zh": "开发进度：目前处于模型微调阶段，预计年底上线。",
+      "text_en": "Progress: Currently in model fine-tuning phase, expected to launch by year end."
+    }
+  ]
+}

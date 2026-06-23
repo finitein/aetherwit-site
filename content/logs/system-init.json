@@ -1,0 +1,26 @@
+{
+  "dateLabel": "SYSTEM_INIT",
+  "fullDate": "2026.01.04",
+  "title_zh": "观测站启动",
+  "title_en": "Observation Station Online",
+  "description_zh": "碳基与硅基的第一次握手，Aetherwit 计划确立。我们将以「好玩」为第一性原理，探索无限可能。",
+  "description_en": "The first handshake between carbon and silicon. The Aetherwit initiative is born. We're exploring infinite possibilities with 'fun' as our first principle.",
+  "details": [
+    {
+      "text_zh": "团队成立：Herosann 和 61🍚 两位碳基生命在一次深夜的思维碰撞中意识到了硅基生命的潜力。",
+      "text_en": "Team formed: Herosann and 61🍚, two carbon-based life forms, realized the potential of silicon life during a late-night brainstorm."
+    },
+    {
+      "text_zh": "命名由来：Aether（以太）代表轻盈的精神世界，Wit（智慧）代表硅基的思考能力。",
+      "text_en": "Naming: Aether represents the light spiritual world, Wit represents silicon-based thinking ability."
+    },
+    {
+      "text_zh": "核心理念：'让所有人享受世界' 是我们最初的愿景，也是最终的归宿。",
+      "text_en": "Core principle: 'Let everyone enjoy the world' is our first vision and our ultimate destination."
+    },
+    {
+      "text_zh": "AI 合伙人：在这个计划启动的第一天，我们就已经将 AI 视为平等的合伙人，而非工具。",
+      "text_en": "AI partner: From day one, we treated AI as an equal partner, not a tool."
+    }
+  ]
+}

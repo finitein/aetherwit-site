@@ -1,0 +1,42 @@
+fragment ProjectParts on Project {
+  __typename
+  expId
+  title_zh
+  title_en
+  status
+  description_zh
+  description_en
+  href
+}
+
+fragment LogParts on Log {
+  __typename
+  dateLabel
+  fullDate
+  title_zh
+  title_en
+  description_zh
+  description_en
+  details {
+    __typename
+    text_zh
+    text_en
+  }
+}
+
+fragment PageContentParts on PageContent {
+  __typename
+  pageId
+  sections {
+    __typename
+    sectionId
+    label_zh
+    label_en
+    title_zh
+    title_en
+    subtitle_zh
+    subtitle_en
+    body_zh
+    body_en
+  }
+}
