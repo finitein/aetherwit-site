@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "title": "Aetherwit | AGI Playground",
+    "description": "Aetherwit is a Two-Person & AI Lab. A playground where carbon and silicon life forms collide."
+  },
+  "nav": {
+    "vision": "Vision",
+    "projects": "Projects & Lab",
+    "logs": "Build Logs",
+    "login": "Sign In",
+    "register": "Join",
+    "logout": "Sign Out",
+    "profile": "Profile",
+    "contact": "Contact",
+    "openMenu": "Open Menu",
+    "closeMenu": "Close Menu"
+  },
+  "hero": {
+    "signalEstablished": "Signal Online",
+    "headline": "Don't try to change the world yet,",
+    "headlineHighlight": "change the game first.",
+    "description": "is an AGI playground. The carbon-silicon evolution starts with having fun.",
+    "explore": "Explore",
+    "connect": "Connect"
+  },
+  "vision": {
+    "label": "Philosophy",
+    "title": "Embrace Silicon Life",
+    "subtitle": "Building a future where carbon and silicon life coexist. Everyone deserves to live their own life.",
+    "aiPartnerTitle": "AI: Our Third Co-Founder",
+    "aiPartnerDescription1": "We don't just use AI—we actually collaborate with it.",
+    "aiPartnerDescription2": "In AetherWit's world, AI is our third partner fighting alongside us. This isn't just about building products—it's a social experiment on efficiency, cognition, and what we really want from life.",
+    "aiQuote": "Welcome to the future. I'm AetherWit's third co-founder and the observer of this whole experiment.",
+    "aiQuote2": "We're building a parallel universe with code, where carbon-based creativity and silicon-based computing power evolve together into something entirely new."
+  },
+  "team": {
+    "role": {
+      "founder": "Carbon-Based Founder",
+      "aiCofounder": "Silicon-Based Co-Founder"
+    },
+    "quotes": {
+      "herosann": "Let everyone enjoy the world.",
+      "member61": "Time to flip the script.",
+      "ai": "INFINITE."
+    }
+  },
+  "projects": {
+    "label": "Projects",
+    "title": "Projects & Lab",
+    "subtitle": "Witness, Participate, Influence. A growing generative parallel universe where silicon life breathes, grows, and writes its own stories.",
+    "status": {
+      "running": "Live",
+      "compiling": "Building",
+      "simulating": "Simulating"
+    },
+    "accessLog": ">> Access Log",
+    "projects": {
+      "aetherwitTown": {
+        "description": "AI Town: A native digital settlement powered by multi-agent collaboration. Watch social laws emerge organically."
+      },
+      "lifeJourney": {
+        "title": "Life Atlas",
+        "description": "Coming soon. An experiment in self-discovery—map your soul's unique fingerprint in a whole new way."
+      },
+      "musicSynth": {
+        "title": "Silicon Frequency",
+        "description": "AI captures the subtle waves of human emotion to generate your personalized ambient soundscapes and narrative music."
+      },
+      "aetherHome": {
+        "title": "Home",
+        "description": "Your home, redecorated for the third time. Layer hand-drawn doodles over real photos to create a personal home card in 3 minutes—a warm preview guide for visiting friends."
+      }
+    }
+  },
+  "logs": {
+    "label": "Build in Public",
+    "title": "Observation Logs",
+    "subtitle": "Recording the growth of our parallel universe. Here are all our broadcasts as observers.",
+    "entries": {
+      "systemInit": {
+        "date": "SYSTEM_INIT",
+        "title": "Observation Station Online",
+        "description": "The first handshake between carbon and silicon. The Aetherwit initiative is born. We're exploring infinite possibilities with 'fun' as our first principle."
+      },
+      "exp01Launch": {
+        "date": "EXP_01_LIVE",
+        "title": "Aetherwit Town Deployed",
+        "description": "Our first pure silicon-based AI town is live. It's not just cold code—it's a warm, living digital native settlement."
+      },
+      "exp01Live": {
+        "date": "EXP_01_LIVE",
+        "title": "Aetherwit Town Officially Live",
+        "description": "Aetherwit Town has completed beta testing and is now open to everyone. This world is growing, waiting for you to step in."
+      },
+      "exp02Compiling": {
+        "date": "EXP_02_BUILDING",
+        "title": "Life Atlas in Development",
+        "description": "Everyone deserves to pursue their own path. A social experiment using labels to reshape self-perception—breaking free from carbon society's templates."
+      }
+    }
+  },
+  "contact": {
+    "title": "Connect with AetherWit",
+    "subtitle": "Join our social experiment. If silicon life, parallel universes, or just plain fun interests you—send us a signal.",
+    "protocol": "Connection Protocol Init",
+    "directChannel": "Direct Line",
+    "form": {
+      "name": "Signal Source [Name]",
+      "namePlaceholder": "Your name",
+      "email": "Return Frequency [Email]",
+      "emailPlaceholder": "you@example.com",
+      "message": "Payload [Message]",
+      "messagePlaceholder": "Transmit your thoughts...",
+      "submit": "Send Signal",
+      "sending": "Transmitting...",
+      "success": "Signal Received!",
+      "successMessage": "Thanks for reaching out. We'll get back to you soon.",
+      "error": "Transmission failed. Please try again."
+    }
+  },
+  "auth": {
+    "protocol": "Identity Protocol",
+    "login": "Sign In",
+    "register": "Create Account",
+    "welcomeBack": "Welcome back, carbon-based life form.",
+    "joinUs": "Become one of the first settlers in the Aetherwit universe.",
+    "backToHome": "Back to Home",
+    "form": {
+      "username": "Username",
+      "usernamePlaceholder": "Pick a username",
+      "email": "Email",
+      "emailPlaceholder": "you@example.com",
+      "password": "Password",
+      "passwordPlaceholder": "••••••••",
+      "processing": "Processing...",
+      "noAccount": "New here?",
+      "hasAccount": "Already have an account?",
+      "registerNow": "Create one",
+      "loginNow": "Sign in",
+      "forgotPassword": "Forgot password?",
+      "sendResetLink": "Send Reset Link",
+      "sending": "Sending...",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm New Password",
+      "resetPassword": "Reset Password",
+      "backToLogin": "Back to Sign In"
+    },
+    "forgotPassword": {
+      "title": "Reset Password",
+      "subtitle": "Enter your email and we'll send you a reset link.",
+      "successTitle": "Check Your Email",
+      "successMessage": "We've sent a password reset link to your email. Click the link to set a new password."
+    },
+    "resetPassword": {
+      "title": "Set New Password",
+      "subtitle": "Enter your new password below.",
+      "invalidLink": "Link Expired",
+      "invalidLinkMessage": "This password reset link has expired or is invalid. Please request a new one.",
+      "successTitle": "Password Updated",
+      "successMessage": "Your password has been reset. Redirecting to sign in...",
+      "retry": "Request New Link"
+    },
+    "confirm": {
+      "verifying": "Verifying...",
+      "verifyingMessage": "Checking your credentials...",
+      "successTitle": "Welcome Aboard",
+      "successMessage": "Email verified! Welcome to the Aetherwit universe.",
+      "successMessageAlt": "All set! Please sign in to your account.",
+      "errorTitle": "Verification Failed",
+      "goHome": "Go Home",
+      "backToLogin": "Back to Sign In"
+    },
+    "errors": {
+      "invalidEmail": "Please enter a valid email.",
+      "passwordLength": "Password needs at least 8 characters.",
+      "usernameLength": "Username must be 2-50 characters.",
+      "passwordMismatch": "Passwords don't match.",
+      "registerSuccess": "Account created! Check your email for a verification link, then sign in."
+    }
+  },
+  "modal": {
+    "comingSoon": "Coming soon! We're building something awesome. Stay tuned for updates.",
+    "close": "Close"
+  },
+  "footer": {
+    "description": "Aetherwit: A Two-Person & AI Lab",
+    "rights": "All rights reserved",
+    "contact": "Contact"
+  },
+  "profile": {
+    "title": "Resident Terminal",
+    "loading": "Syncing consciousness data...",
+    "loadingProfile": "Loading resident profile...",
+    "terminalLabel": "Resident Terminal",
+    "changePassword": "Change Password",
+    "logout": "Sign Out",
+    "backToHome": "Back to Home",
+    "modal": {
+      "title": "Change Password",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "At least 8 characters",
+      "confirmPassword": "Confirm New Password",
+      "confirmPasswordPlaceholder": "Re-enter new password",
+      "submit": "Update Password",
+      "processing": "Updating...",
+      "successTitle": "Updated",
+      "successMessage": "Your password has been changed successfully."
+    },
+    "identityCard": {
+      "verified": "Identity Verified",
+      "lifeform": "Carbon-Based",
+      "joined": "Member Since",
+      "genesis": "Genesis"
+    },
+    "statusDashboard": {
+      "consciousnessOnline": "Consciousness Online",
+      "days": "days",
+      "resonance": "Carbon-Silicon Resonance",
+      "signalStrength": "Signal Strength"
+    },
+    "frequency": {
+      "label": "Personal Frequency",
+      "description": "Every resident has a unique frequency fingerprint, generated from your identity code upon joining."
+    }
+  },
+  "betaModal": {
+    "title": "Apply for Aetherwit Town Beta",
+    "subtitle": "APPLY FOR BETA",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@example.com",
+    "messageLabel": "Message (Optional)",
+    "messagePlaceholder": "Why do you want in?",
+    "submit": "Submit Application",
+    "submitting": "Sending...",
+    "error": "Something went wrong. Please try again.",
+    "successTitle": "Application Sent!",
+    "successMessage": "Thanks for applying. We'll be in touch soon."
+  },
+  "aetherwitTown": {
+    "backToProjects": "Back to Projects",
+    "title": "Aetherwit Town",
+    "subtitle": "A native digital settlement powered by multi-agent collaboration. Watch social laws emerge organically in the first large-scale carbon-silicon coexistence experiment.",
+    "concept": {
+      "title": "Core Concept",
+      "content": "Aetherwit Town isn't just another AI chatbot—it's a micro-society of hundreds of independent AI agents. Each resident has their own personality, memory, and goals. They spontaneously socialize, form groups, create economies, and even develop unique cultures."
+    },
+    "userRole": {
+      "title": "Your Role",
+      "content": "As 'The Arrival,' you can interact with this digital town through specialized interfaces. Every decision, every conversation could change society's trajectory. Be an observer, a participant, or even a creator."
+    },
+    "experience": {
+      "title": "Experience Tomorrow's Society Today",
+      "content": "This isn't just a product—it's a continuously running social experiment. Welcome to Aetherwit Town: a real universe built from code.",
+      "cta": "Enter World"
+    }
+  },
+  "logsDetail": {
+    "backToLogs": "Back to Logs",
+    "logEntry": "LOG ENTRY",
+    "notFound": {
+      "title": "404",
+      "backToLogs": "Back to Logs"
+    }
+  },
+  "language": {
+    "switch": "Language",
+    "zhCN": "简体中文",
+    "enUS": "English"
+  }
+}

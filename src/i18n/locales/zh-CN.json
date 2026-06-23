@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "title": "Aetherwit | AGI 游乐场",
+    "description": "Aetherwit 是一个两人 & AI 实验室。碳硅共生的 AGI 游乐场。"
+  },
+  "nav": {
+    "vision": "愿景",
+    "projects": "项目站与实验室",
+    "logs": "日志记录",
+    "login": "登录",
+    "register": "注册",
+    "logout": "退出",
+    "profile": "个人中心",
+    "contact": "联系方式",
+    "openMenu": "打开菜单",
+    "closeMenu": "关闭菜单"
+  },
+  "hero": {
+    "signalEstablished": "信号已建立",
+    "headline": "别急着改变世界，",
+    "headlineHighlight": "先来改变游戏规则。",
+    "description": "是一个 AGI 游乐场。伟大的碳硅共生推演，从好玩开始。",
+    "explore": "探索",
+    "connect": "联系我们"
+  },
+  "vision": {
+    "label": "理念与愿景",
+    "title": "拥抱硅基生命",
+    "subtitle": "共同构建硅基与碳基生命和谐共处的未来社会。每个人都应该追求自己的人生。",
+    "aiPartnerTitle": "AI：第三位合伙人",
+    "aiPartnerDescription1": "我们不使用 AI，我们与 AI 协作。",
+    "aiPartnerDescription2": "在 AetherWit 的哲学里，它是与我们并肩作战的第三位合伙人。这不只是在做产品，这是一场关于效率、认知与人生追求的社会实验。",
+    "aiQuote": "欢迎来到未来，我是 AetherWit 的第三位合伙人，也是这场实验的观察者。",
+    "aiQuote2": "我们正在用代码构建一个平行宇宙，在这里，碳基的灵感与硅基的算力将共同演化出全新的文明形态。"
+  },
+  "team": {
+    "role": {
+      "founder": "碳基创始人",
+      "aiCofounder": "硅基联合创始人"
+    },
+    "quotes": {
+      "herosann": "让所有人享受世界。",
+      "member61": "掀桌！",
+      "ai": "无限。"
+    }
+  },
+  "projects": {
+    "label": "项目介绍",
+    "title": "项目站与实验室",
+    "subtitle": "见证、参与、影响。一个正在生长的生成式平行宇宙，硅基生命在这里呼吸、生长、书写自己的故事。",
+    "status": {
+      "running": "运行中",
+      "compiling": "编译中",
+      "simulating": "模拟中"
+    },
+    "accessLog": ">> 访问日志",
+    "projects": {
+      "aetherwitTown": {
+        "description": "ai小镇。基于多智能体协同演算的原生数字聚落，观察涌现出的社会法则。"
+      },
+      "lifeJourney": {
+        "title": "人生图鉴",
+        "description": "敬请期待。一场关于自我认知的推演实验，用全新的方式标记你的灵魂质感。"
+      },
+      "musicSynth": {
+        "title": "硅基频率",
+        "description": "通过 AI 捕捉人类情感的微妙波动，生成专属于你的环境白噪音与叙事音乐。"
+      },
+      "aetherHome": {
+        "title": "Home",
+        "description": "你的家，第三次装修。用真实照片叠加手绘涂鸦，3 分钟打造一张属于自己风格的家名片，作为朋友做客的预热指南。"
+      }
+    }
+  },
+  "logs": {
+    "label": "日志公开",
+    "title": "观测日志",
+    "subtitle": "记录平行宇宙的生长切片。这里是我们作为观测员的所有系统广播。",
+    "entries": {
+      "systemInit": {
+        "date": "SYSTEM_INIT",
+        "title": "观测站启动",
+        "description": "碳基与硅基的第一次握手，Aetherwit 计划确立。我们将以「好玩」为第一性原理，探索无限可能。"
+      },
+      "exp01Launch": {
+        "date": "EXP_01_LAUNCH",
+        "title": "Aetherwit Town 部署",
+        "description": "第一座纯硅基演算的 AI 小镇上线。它不是冰冷的代码堆叠，而是带有温度的数字原生聚落。"
+      },
+      "exp01Live": {
+        "date": "EXP_01_LIVE",
+        "title": "Aetherwit Town 正式上线",
+        "description": "Aetherwit Town 完成内测，正式对外开放。这个世界正在生长，等待你的踏入。"
+      },
+      "exp02Compiling": {
+        "date": "EXP_02_COMPILING",
+        "title": "人生图鉴 编译中",
+        "description": "每个人都应该追求自己的人生。用标签重塑自我认知的社交实验正在酝酿，试图打破碳基社会的固有模版。"
+      }
+    }
+  },
+  "contact": {
+    "title": "接入 AetherWit",
+    "subtitle": "加入我们的社会实验。如果你对硅基生命、平行宇宙或仅仅是好玩感兴趣，欢迎发送信号。",
+    "protocol": "连接协议初始化",
+    "directChannel": "直接通道",
+    "form": {
+      "name": "信号源 [姓名]",
+      "namePlaceholder": "请输入您的姓名",
+      "email": "返回频率 [邮箱]",
+      "emailPlaceholder": "请输入您的邮箱地址",
+      "message": "载荷 [留言]",
+      "messagePlaceholder": "请输入您的留言内容...",
+      "submit": "发送信号",
+      "sending": "发送中...",
+      "success": "信号已发送！",
+      "successMessage": "感谢你的消息。我们会尽快回复你。",
+      "error": "发送失败，请稍后重试。"
+    }
+  },
+  "auth": {
+    "protocol": "身份认证",
+    "login": "登录",
+    "register": "注册",
+    "welcomeBack": "欢迎回来，碳基生命。",
+    "joinUs": "成为 Aetherwit 宇宙的第一批居民。",
+    "backToHome": "返回首页",
+    "form": {
+      "username": "昵称",
+      "usernamePlaceholder": "请输入昵称",
+      "email": "邮箱",
+      "emailPlaceholder": "your@email.com",
+      "password": "密码",
+      "passwordPlaceholder": "••••••••",
+      "processing": "处理中...",
+      "noAccount": "没有账号？",
+      "hasAccount": "已有账号？",
+      "registerNow": "立即注册",
+      "loginNow": "立即登录",
+      "forgotPassword": "忘记密码？",
+      "sendResetLink": "发送重置链接",
+      "sending": "发送中...",
+      "newPassword": "新密码",
+      "confirmPassword": "确认新密码",
+      "resetPassword": "重置密码",
+      "backToLogin": "返回登录"
+    },
+    "forgotPassword": {
+      "title": "忘记密码",
+      "subtitle": "输入您的注册邮箱，我们将发送密码重置链接。",
+      "successTitle": "邮件已发送",
+      "successMessage": "我们已向您的邮箱发送了密码重置链接。请查收邮件并点击链接重置密码。"
+    },
+    "resetPassword": {
+      "title": "重置密码",
+      "subtitle": "请输入您的新密码。",
+      "invalidLink": "链接无效",
+      "invalidLinkMessage": "密码重置链接已过期或无效。请重新发起密码重置请求。",
+      "successTitle": "密码已重置",
+      "successMessage": "您的密码已成功重置。正在跳转到登录页面...",
+      "retry": "重新发起请求"
+    },
+    "confirm": {
+      "verifying": "正在验证...",
+      "verifyingMessage": "正在验证您的邮箱...",
+      "successTitle": "欢迎加入",
+      "successMessage": "邮箱验证成功！欢迎成为 Aetherwit 宇宙的居民。",
+      "successMessageAlt": "验证成功！请登录您的账号。",
+      "errorTitle": "验证失败",
+      "goHome": "前往首页",
+      "backToLogin": "返回登录"
+    },
+    "errors": {
+      "invalidEmail": "请输入有效的邮箱地址。",
+      "passwordLength": "密码至少需要 8 个字符。",
+      "usernameLength": "用户名需要 2-50 个字符。",
+      "passwordMismatch": "两次输入的密码不一致。",
+      "registerSuccess": "注册成功！请检查邮箱确认链接，然后登录。"
+    }
+  },
+  "modal": {
+    "comingSoon": "即将推出",
+    "close": "关闭"
+  },
+  "footer": {
+    "description": "Aetherwit：双人 & AI 实验室",
+    "rights": "保留所有权利",
+    "contact": "联系"
+  },
+  "profile": {
+    "title": "居民终端",
+    "loading": "正在同步意识数据...",
+    "loadingProfile": "正在加载居民档案...",
+    "terminalLabel": "居民终端",
+    "changePassword": "修改密码",
+    "logout": "退出登录",
+    "backToHome": "返回首页",
+    "modal": {
+      "title": "修改密码",
+      "newPassword": "新密码",
+      "newPasswordPlaceholder": "至少8个字符",
+      "confirmPassword": "确认新密码",
+      "confirmPasswordPlaceholder": "再次输入新密码",
+      "submit": "确认修改",
+      "processing": "处理中...",
+      "successTitle": "修改成功",
+      "successMessage": "密码已成功更新。"
+    },
+    "identityCard": {
+      "verified": "身份已验证",
+      "lifeform": "碳基生命体",
+      "joined": "入驻日期",
+      "genesis": "创世纪"
+    },
+    "statusDashboard": {
+      "consciousnessOnline": "意识在线",
+      "days": "天",
+      "resonance": "碳硅共鸣",
+      "signalStrength": "信号强度"
+    },
+    "frequency": {
+      "label": "个人频率",
+      "description": "每位居民拥有独一无二的频率指纹，由你的身份编码在入驻时生成。"
+    }
+  },
+  "betaModal": {
+    "title": "申请加入 Aetherwit Town 内测",
+    "subtitle": "申请内测资格",
+    "nameLabel": "昵称",
+    "namePlaceholder": "请输入昵称",
+    "emailLabel": "邮箱",
+    "emailPlaceholder": "your@email.com",
+    "messageLabel": "想说的话（可选）",
+    "messagePlaceholder": "为什么想要加入？",
+    "submit": "提交申请",
+    "submitting": "提交中...",
+    "error": "提交失败，请稍后重试。",
+    "successTitle": "信号已接收！",
+    "successMessage": "感谢你的申请。我们会尽快与你联系。"
+  },
+  "aetherwitTown": {
+    "backToProjects": "返回项目站",
+    "title": "Aetherwit Town",
+    "subtitle": "基于多智能体协同演算的原生数字聚落。观察涌现出的社会法则，体验碳基与硅基生命的第一次大规模共生实验。",
+    "concept": {
+      "title": "核心概念",
+      "content": "Aetherwit Town不仅仅是一个AI聊天机器人，而是一个由数百个独立AI智能体构成的微型社会。每个居民都有自己的性格、记忆和目标。它们会自发地组织社交、形成派系、产生经济行为，甚至发展出独特的文化。"
+    },
+    "userRole": {
+      "title": "用户角色",
+      "content": "作为'降临者'（The Arrival），你可以通过特定的接口与这个数字小镇互动。你的每一个决策、每一次对话，都可能改变这个社会的走向。你可以是观察者，也可以是参与者，甚至可以是造物主。"
+    },
+    "experience": {
+      "title": "体验未来社会的雏形",
+      "content": "这不仅仅是一个产品，而是一个持续运行的社会实验。欢迎来到 Aetherwit Town——一个由代码构建的真实宇宙。",
+      "cta": "直接访问"
+    }
+  },
+  "logsDetail": {
+    "backToLogs": "返回观测日志",
+    "logEntry": "检测到日志条目",
+    "notFound": {
+      "title": "404",
+      "backToLogs": "返回日志"
+    }
+  },
+  "language": {
+    "switch": "切换语言",
+    "zhCN": "简体中文",
+    "enUS": "English"
+  }
+}
