@@ -175,7 +175,19 @@
       "passwordLength": "密码至少需要 8 个字符。",
       "usernameLength": "用户名需要 2-50 个字符。",
       "passwordMismatch": "两次输入的密码不一致。",
-      "registerSuccess": "注册成功！请检查邮箱确认链接，然后登录。"
+      "registerSuccess": "注册成功！请检查邮箱确认链接，然后登录。",
+      "supabaseErrors": {
+        "Invalid login credentials": "邮箱或密码不正确",
+        "Email not confirmed": "邮箱尚未确认，请检查收件箱",
+        "User already registered": "该邮箱已注册，请直接登录",
+        "Password should be at least 6 characters": "密码至少需要 6 个字符",
+        "Invalid path specified in request URL": "请求路径无效，请检查 Supabase 配置",
+        "Database error saving new user": "保存用户信息失败，请稍后重试",
+        "Too many requests": "操作过于频繁，请稍后再试",
+        "Email rate limit exceeded": "邮件发送过于频繁，请稍后再试",
+        "Invalid Refresh Token": "登录已过期，请重新登录",
+        "session_not_found": "会话已过期，请重新登录"
+      }
     }
   },
   "modal": {

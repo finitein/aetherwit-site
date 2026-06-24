@@ -59,7 +59,8 @@ export default function Auth() {
       });
 
       if (error) {
-        setError(error.message);
+        const translated = t(`errors.supabaseErrors.${error.message}` as any);
+        setError(typeof translated === 'string' ? translated : error.message);
       } else {
         // 登录成功，跳转到回调接口处理 token 回跳
         const callbackUrl = redirectUrl 
@@ -80,7 +81,8 @@ export default function Auth() {
       });
 
       if (signUpError) {
-        setError(signUpError.message);
+        const translated = t(`errors.supabaseErrors.${signUpError.message}` as any);
+        setError(typeof translated === 'string' ? translated : signUpError.message);
       } else {
         setMessage(t("errors.registerSuccess"));
         setIsLogin(true);

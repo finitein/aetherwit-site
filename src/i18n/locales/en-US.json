@@ -175,7 +175,19 @@
       "passwordLength": "Password needs at least 8 characters.",
       "usernameLength": "Username must be 2-50 characters.",
       "passwordMismatch": "Passwords don't match.",
-      "registerSuccess": "Account created! Check your email for a verification link, then sign in."
+      "registerSuccess": "Account created! Check your email for a verification link, then sign in.",
+      "supabaseErrors": {
+        "Invalid login credentials": "Invalid email or password",
+        "Email not confirmed": "Email not confirmed, please check your inbox",
+        "User already registered": "This email is already registered, please sign in",
+        "Password should be at least 6 characters": "Password must be at least 6 characters",
+        "Invalid path specified in request URL": "Invalid request path, please check configuration",
+        "Database error saving new user": "Failed to save user, please try again",
+        "Too many requests": "Too many requests, please try again later",
+        "Email rate limit exceeded": "Too many emails sent, please try again later",
+        "Invalid Refresh Token": "Session expired, please sign in again",
+        "session_not_found": "Session expired, please sign in again"
+      }
     }
   },
   "modal": {
