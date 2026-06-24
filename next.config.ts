@@ -12,12 +12,13 @@ const securityHeaders = [
     key: "Content-Security-Policy",
     value: [
       "default-src 'self'",
-      "script-src 'self' 'unsafe-inline' 'unsafe-eval'",
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.tinajs.io",
       "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
       "font-src 'self' https://fonts.gstatic.com",
       "img-src 'self' data: blob: https:",
-      "connect-src 'self' https://*.supabase.co wss://*.supabase.co",
-      "frame-ancestors 'none'",
+      "connect-src 'self' https://*.supabase.co wss://*.supabase.co https://*.tinajs.io wss://*.tinajs.io https://identity.tinajs.io",
+      "frame-src https://*.tinajs.io https://identity.tinajs.io",
+      "frame-ancestors 'self'",
       "base-uri 'self'",
       "form-action 'self'",
     ].join("; "),
@@ -25,6 +26,15 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  async redirects() {
+    return [
+      {
+        source: "/admin",
+        destination: "/admin/index.html",
+        permanent: false,
+      },
+    ];
+  },
   async headers() {
     return [
       {
