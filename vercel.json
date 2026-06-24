@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "buildCommand": "next build",
+  "headers": [
     {
-      "src": "/admin/assets/(.*)",
-      "dest": "/admin/assets/$1"
+      "source": "/admin/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" }
+      ]
     }
   ]
 }
