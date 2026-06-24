@@ -4,10 +4,14 @@ import { queries } from "../../tina/__generated__/types";
 
 /**
  * Server-side Tina CMS client.
- * Use this in Next.js Server Components to fetch content.
+ * In dev: uses local Tina server (localhost:4001)
+ * In production: uses Tina Cloud API
  */
+const TINA_CLOUD_URL = `https://content.tinajs.io/content/${process.env.NEXT_PUBLIC_TINA_CLIENT_ID || ""}/github/main`;
+const isDev = process.env.NODE_ENV === "development";
+
 export const tinaClient = createClient({
-  url: process.env.NEXT_PUBLIC_TINA_API_URL || "http://localhost:4001/graphql",
+  url: process.env.NEXT_PUBLIC_TINA_API_URL || (isDev ? "http://localhost:4001/graphql" : TINA_CLOUD_URL),
   token: process.env.TINA_TOKEN || "",
   queries,
 });
